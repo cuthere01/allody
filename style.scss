@@ -1,12 +1,12 @@
 @font-face{
     font-family: 'Roboto';
-    src: url('/allodytest.github.io/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    src: url('/allody/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'Roboto Condensed';
-    src: url('/allodytest.github.io/fonts/RobotoCondensed/RobotoCondensed-Bold.ttf') format('truetype');
+    src: url('/allody/fonts/RobotoCondensed/RobotoCondensed-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -31,7 +31,7 @@
     max-height: 892px;
     height: 100vh;
     position: relative;
-    background: url('/allodytest.github.io/media/show.jpg');
+    background: url('/allody/media/show.jpg');
     background-size: cover;
     background-position: center;
     padding-bottom: 60px;
@@ -111,7 +111,7 @@
 }
 .set{
     position: relative;
-    background: url('/allodytest.github.io/media/wall.jpg');
+    background: url('/allody/media/wall.jpg');
     background-size: cover;
     background-position: center;
     padding-top: 30px;
